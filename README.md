@@ -19,5 +19,7 @@ BLEA_D: A folder containing all necessary files. Please note that it contains so
 
 # Acknowledgement
 [BLCMAES](https://github.com/hxyokokok/BLCMAES)
-[TLEA-CMAES]((https://github.com/gdutcislab/TLEA-bilevel))
+
+[TLEA-CMAES](https://github.com/gdutcislab/TLEA-bilevel)
+
 [BLEAQ2](https://github.com/msu-coinlab/BLEAQ2)
