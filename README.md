@@ -1,5 +1,5 @@
-# EKTBO:Elite Knowledge Transfer within Lower-level Searches for Bilevel Optimization
-
+# EKTBO: Elite Knowledge Transfer within Lower-level Searches for Bilevel Optimization
+This is the official implementation for the paper: [EKTBO: Elite Knowledge Transfer within Lower-level Searches for Bilevel Optimization](https://www.sciencedirect.com/science/article/pii/S221065022500255X), which is accepted by AAAI2024. This repo contains the implementation of architecture search and evaluation on CIFAR-10 and ImageNet using our proposed EG-NAS
 File structure
 In total, three files are contained in the root directory:
 
